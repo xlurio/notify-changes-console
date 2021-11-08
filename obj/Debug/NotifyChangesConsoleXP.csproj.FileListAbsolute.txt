@@ -1,6 +1,1 @@
-C:\Users\Luis Felipe Martins\source\repos\NotifyChangesConsoleXP\obj\Debug\NotifyChangesConsoleXP.csproj.AssemblyReference.cache
 C:\Users\Luis Felipe Martins\source\repos\NotifyChangesConsoleXP\obj\Debug\NotifyChangesConsoleXP.csproj.CoreCompileInputs.cache
-C:\Users\Luis Felipe Martins\source\repos\NotifyChangesConsoleXP\bin\Debug\NotifyChangesConsoleXP.exe
-C:\Users\Luis Felipe Martins\source\repos\NotifyChangesConsoleXP\bin\Debug\NotifyChangesConsoleXP.pdb
-C:\Users\Luis Felipe Martins\source\repos\NotifyChangesConsoleXP\obj\Debug\NotifyChangesConsoleXP.exe
-C:\Users\Luis Felipe Martins\source\repos\NotifyChangesConsoleXP\obj\Debug\NotifyChangesConsoleXP.pdb
